@@ -1,0 +1,43 @@
+.info{
+      position: fixed;
+       height: 70%;
+       width: 40%;
+       background-color: rgba(43, 41, 53, 0.288);
+       top: 10%;
+       left: 30%;
+     
+    
+}
+.pp{
+    
+    width: 30%;
+   border-radius: 50%;
+   margin-left: 36%;
+   margin-top: 5%;
+   border-style: solid;
+   position: static;
+}
+h1{
+   
+    margin-left: 32%;
+    margin-top: 3%;
+    font: bold;
+    font-family: Lucida Console ;
+    font-size: xx-large;
+}
+p{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.def{
+    border-radius: 60%;
+    margin-left: 13%;
+}
+.twt{
+    border-radius: 60%;
+    margin-left: 46%;
+}
+.simple{
+    margin-left: 42%;
+}
+
